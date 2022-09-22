@@ -1,0 +1,19 @@
+div {
+    border: 1px solid black;
+}
+
+.container {
+    width: 608px;
+}
+
+.color-palette, .my-palette {
+    height: 500px;
+    display: inline-block;
+    width: 300px;
+}
+
+.square {
+    display: inline-block;
+    width: 28px;
+    height: 28px;
+}
